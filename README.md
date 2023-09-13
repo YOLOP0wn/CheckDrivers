@@ -9,7 +9,7 @@ Tool permitting to:
 
 ## Usage
 
-![screenshot](resources/help.png)
+![screenshot](resources/help.PNG)
 
 
 ## Example
